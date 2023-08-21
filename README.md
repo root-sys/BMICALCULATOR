@@ -1,5 +1,5 @@
 # BMICALCULATOR 💪
 
-A multiscreen to calculate the BMI
+A multiscreen app to calculate the BMI
 
 
